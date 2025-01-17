@@ -1,0 +1,21 @@
+project/
+│
+├── index.html
+├── opportunities.html
+├── contact.html
+├── team.html
+├── attendance.html
+├── investments.html
+├── payments.html
+├── invite.html
+├── login.html
+│
+├── assets/
+│   ├── css/
+│   │   └── styles.css
+│   ├── js/
+│   │   └── script.js
+│   └── images/
+│       └── (Ajoute tes images ici)
+│
+└── README.md
