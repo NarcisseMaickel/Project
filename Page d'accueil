@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accueil | Plateforme d'Investissement</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Plateforme d'Investissement</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="opportunities.html">Opportunités</a></li>
+                <li><a href="team.html">Mon Équipe</a></li>
+                <li><a href="attendance.html">Présence</a></li>
+                <li><a href="investments.html">Investissements</a></li>
+                <li><a href="payments.html">Paiements</a></li>
+                <li><a href="invite.html">Inviter</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="login.html">Connexion</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Bienvenue sur notre plateforme</h2>
+            <p>Investissez dès aujourd'hui dans les meilleures opportunités financières.</p>
+            <a href="opportunities.html" class="btn">Découvrir les Opportunités</a>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Plateforme d'Investissement. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
